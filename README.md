@@ -15,7 +15,7 @@ This task demonstrates a basic CRUD (Create, Read, Update, Delete) application w
 
 ## Features
 
-- Create, read, update, and delete entities (e.g., users, products, etc.) using Java classes and objects
+- Create, read, update, and delete entities (e.g., name, marks, etc.) using Java classes and objects
 - Encapsulates data and operations using classes and methods
 - Demonstrates use of constructors, getters, setters, and collection classes (e.g., ArrayList)
 - Includes error handling for invalid operations (e.g., updating non-existent items)

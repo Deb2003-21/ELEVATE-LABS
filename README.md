@@ -54,4 +54,13 @@ This repository contains a simple Java-based Mini Library System designed to man
 - Books can be issued to users by their user ID.
 - The system can display all books issued to a particular user.
 
+ 
+# Task 4: Notes Application
 
+This is a simple Java console application for managing notes. Notes can be written to a file and read back from it, enabling persistent storage between runs.
+
+## Features
+
+- Create a note with a title and content.
+- Save notes to a file (`notes.txt`). Each note is appended to the file.
+- Read and display all notes from the file.

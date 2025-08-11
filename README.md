@@ -64,3 +64,28 @@ This is a simple Java console application for managing notes. Notes can be writt
 - Create a note with a title and content.
 - Save notes to a file (`notes.txt`). Each note is appended to the file.
 - Read and display all notes from the file.
+
+# Task 5: Bank Account Example in Java
+
+This project demonstrates a simple bank account implementation in Java using interfaces and classes. It provides basic operations such as depositing, withdrawing, checking the balance, and viewing transaction history.
+
+## Features
+
+- **Interface (`account`)**: Defines the basic operations for a bank account.
+  - `deposit(double amount)`: Deposit money into the account.
+  - `withdraw(double amount)`: Withdraw money from the account.
+  - `getBalance()`: Get the current balance of the account.
+
+- **Class (`bank`)**: Implements the `account` interface.
+  - Stores account number and balance.
+  - Maintains a transaction history.
+  - Provides methods to perform deposit, withdrawal, and retrieve transaction history.
+
+## Usage
+
+The main method demonstrates the following:
+
+1. Creating a new bank account with an initial balance.
+2. Performing deposit and withdrawal operations.
+3. Printing the transaction history.
+4. Displaying the current balance.

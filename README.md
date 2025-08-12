@@ -89,3 +89,20 @@ The main method demonstrates the following:
 2. Performing deposit and withdrawal operations.
 3. Printing the transaction history.
 4. Displaying the current balance.
+
+# TASK 6: JFrame Todo App
+
+A simple Todo List application built using Java Swing. This project demonstrates basic usage of `JFrame`, `JList`, and action listeners for adding and removing tasks.
+
+## Features
+
+- Add new tasks to your todo list.
+- Remove selected tasks from the list.
+- Scrollable list view for easy navigation.
+
+## How It Works
+
+- Enter a task in the text field.
+- Click **Add** to add the task to the list.
+- Select a task and click **Remove** to delete it from the list.
+

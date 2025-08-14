@@ -106,3 +106,30 @@ A simple Todo List application built using Java Swing. This project demonstrates
 - Click **Add** to add the task to the list.
 - Select a task and click **Remove** to delete it from the list.
 
+# TASK 7: Employee Database App
+
+This project contains a Java program for basic CRUD (Create, Read, Update, Delete) operations on a MariaDB/MySQL database using JDBC.
+
+## Overview
+
+- Add a new employee record
+- Display all employee records
+- Update an employee record by ID
+- Delete an employee record by ID
+
+## Features
+
+- **Database Connection:** Connects to a MariaDB/MySQL database using JDBC.
+- **Adding Data:** Prompts the user for employee details (ID, name, salary) and inserts them into the database.
+- **Viewing Data:** Displays all records from the `emp` table.
+- **Updating Data:** Allows the user to update the name and salary of an employee by their ID.
+- **Deleting Data:** Allows the user to delete an employee record by ID.
+- **Error Handling:** Basic error messages are printed to the console if operations fail.
+
+## Database Setup
+
+- **Default Connection URL:** `jdbc:mariadb://localhost:3306/db1`
+- **Default User:** `root`
+- **Default Password:** `hatua`
+- **Table:** Assumes the existence of a table named `emp` with columns `id`, `name`, `salary`.
+

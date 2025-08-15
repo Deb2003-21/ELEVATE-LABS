@@ -133,3 +133,29 @@ This project contains a Java program for basic CRUD (Create, Read, Update, Delet
 - **Default Password:** `hatua`
 - **Table:** Assumes the existence of a table named `emp` with columns `id`, `name`, `salary`.
 
+# TASK 8: QuizApp
+
+A simple Java console-based Quiz Application.
+
+## Overview
+
+This project is a command-line quiz application written in Java. Users are presented with multiple-choice questions and must select the correct answer by entering the corresponding number. The application keeps track of the user's score and displays it at the end of the quiz.
+
+## Features
+
+- Presents a series of multiple-choice questions.
+- Accepts user input for answers.
+- Checks and displays whether the answer is correct or wrong.
+- Shows the correct answer for each question if the user's choice is wrong.
+- Displays the final score at the end.
+
+## How It Works
+
+1. The quiz contains a predefined list of questions, each with four options.
+2. For each question:
+    - The question and its options are displayed.
+    - The user is prompted to enter their answer (1-4).
+    - The application checks if the answer is correct and updates the score.
+    - Feedback is given after each question.
+3. After all questions, the final score is displayed.
+

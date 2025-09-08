@@ -128,9 +128,9 @@ This project contains a Java program for basic CRUD (Create, Read, Update, Delet
 
 ## Database Setup
 
-- **Default Connection URL:** `jdbc:mariadb://localhost:3306/db1`
+- **Default Connection URL:** `jdbc:mariadb://localhost:3306/<your project dir>`
 - **Default User:** `root`
-- **Default Password:** `hatua`
+- **Default Password:** `xxxx`
 - **Table:** Assumes the existence of a table named `emp` with columns `id`, `name`, `salary`.
 
 # TASK 8: QuizApp

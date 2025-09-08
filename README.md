@@ -163,4 +163,4 @@ This project is a command-line quiz application written in Java. Users are prese
 
 The Text Similarity Checker (Plagiarism Detector) leverages modern information retrieval and text analysis techniques to determine the similarity between two documents. Using Apache Lucene for indexing and searching, combined with iText7 for PDF generation, the system processes input files, removes noise such as stopwords and punctuation, and applies cosine similarity for accurate comparison
 
-** PLEASE CHECK THE TOKENIZER2 FOLDER FOR MORE INFORMATION ABOUT THE PROJECT**
+**PLEASE CHECK THE TOKENIZER2 FOLDER FOR MORE INFORMATION ABOUT THE PROJECT**

@@ -80,13 +80,13 @@ Tokenizer2/
 
 ## Example Output
 
-<img width="1657" height="942" alt="image" src="https://github.com/user-attachments/assets/63dcb373-cf42-4c5c-b306-4152e55f95ea" />
+<img width="1257" height="702" alt="image" src="https://github.com/user-attachments/assets/63dcb373-cf42-4c5c-b306-4152e55f95ea" />
 
 
 Plagiarism Detection Report
 ------------------------------
 similarity:
-70%
+70% , 
 common words:
 ["machin","learn","artifici","intellig","train","model"]
 

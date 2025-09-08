@@ -13,7 +13,7 @@ in pdf.
 - Compare two documents for textual similarity
 - Tokenize and preprocess content (remove stopwords and punctuation using lucene tokenizer)
 - Cosine similarity computation
-- Highlight matching phrases
+- Highlight matching words
 - Display similarity percentage
 - Export results as PDF or text
 
